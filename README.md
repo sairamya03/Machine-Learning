@@ -1,2 +1,2 @@
 # Machine-Learning
-Supervised and Unsupervised learning machine models
+Supervised and Unsupervised learing models
